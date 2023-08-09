@@ -10,8 +10,8 @@ I'm a PhD candidate at Southwest Jiaotong University, specializing in Large Lang
 ## 💻 Technical Expertise
 - **Python Developer**: Passionate about Python, automation, and actively contributing to open-source projects on [GitHub](https://github.com/Kaleemullahqasim) 🐍.
 - **Data Mining & Scraping**: Skilled in extracting valuable insights from data and performing legal scraping 📊.
-- **Machine Learning & Deep Learning**: Experienced in building intelligent models using various algorithms and frameworks 🤖.
-- **Programming Languages**: Proficient in Python and familiar with other languages and technologies 💼.
+- **Machine Learning & Deep Learning**: Experienced in building intelligent models using various algorithms 🤖.
+- **Programming Languages**: Proficient in Python and familiar with Java 💼.
 - **Writing**: I love writing about NLP and LLMs on [Medium](https://medium.com/@kaleemullahqasim) ✍️.
 
 ## 🎯 Professional Objectives
