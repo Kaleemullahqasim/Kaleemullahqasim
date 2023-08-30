@@ -1,11 +1,10 @@
 # Hi there 👋, I'm Kaleemullah Qasim!
 
-I'm a PhD candidate at Southwest Jiaotong University, specializing in Large Language Models (LLMs), prompt engineering, and Natural Language Processing (NLP) 🎓. My research is particularly focused on the application of LLMs in cybersecurity 🔒.
+Specializing in Large Language Models (LLMs), prompt engineering, and Natural Language Processing (NLP) 🎓. My research is particularly focused on the application of LLMs in cybersecurity 🔒.
 
 ## 📚 Academic Pursuits
 - **PhD in Large Language Models and Cybersecurity**: Currently pursuing my doctorate at Southwest Jiaotong University.
 - **Research Interests**: Deeply interested in LLMs, NLP, cybersecurity, machine learning, and deep learning, aiming to advance these fields through innovative research 🧠.
-- **Publication Goal**: Ambitiously targeting to publish 20 research papers this year 📝.
 
 ## 💻 Technical Expertise
 - **Python Developer**: Passionate about Python, automation, and actively contributing to open-source projects on [GitHub](https://github.com/Kaleemullahqasim) 🐍.
